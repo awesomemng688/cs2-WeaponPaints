@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+website/getskins.php
+.idea/
+WeaponPaints.sln.DotSettings.user
+.env
+cs2website/.env
+cs2website/vendor/
+cs2website/storage/*.key
+cs2website/storage/logs/*.log
